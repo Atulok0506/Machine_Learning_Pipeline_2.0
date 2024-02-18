@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Machine_Learning_Pipeline_Project
+Version: 0.0.1
+Summary: This is Machine Learning Pipeline Project
+Author: Atul Kishore
+Author-email: atulstar900@gmail.com
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
